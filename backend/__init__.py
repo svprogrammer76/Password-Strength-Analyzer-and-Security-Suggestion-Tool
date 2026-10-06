@@ -1,0 +1,1 @@
+"""Password analyzer backend package."""
